@@ -7,7 +7,6 @@ import {
   LayoutAnimation,
   Text
 } from "react-native";
-import Button from "./button";
 const SCREEN_WIDTH = Dimensions.get("window").width;
 const SWIPE_THRESHOLD = 0.35 * SCREEN_WIDTH;
 const DURATION = 250;
